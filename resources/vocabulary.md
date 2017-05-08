@@ -3,6 +3,7 @@
 ## "Basic" concepts
 
 ### Things that most programming languages can do
+*Note that all code examples are structured pseudocode and not meant to be any particular language*
 
 #### Arithmetic operations
 This involves typing expressions like `1 + 2` and getting the answer `3` as an output. The operators `+`, `-`, `*` and `/` are common (universal?), while programming languages also tend to have other operators like `**` (exponential power, e.g. `2 ** 3` returns `8`) or `%` (modulo, e.g. `14 % 4` returns `2`).
@@ -27,9 +28,9 @@ return variable + 4 // We add 4 to 'variable' - the computer will interpret 'var
 
 Variables can assign all kinds of things - integers (`3` in the above example), strings, objects, functions, and others.
 
-##### 'Composite' data types
+#### 'Composite' data types
 These are things that can contain other values. 
-- `array`
+- `array`, `list`
   - This could be something like `[1, 2, 3]`, which is an array containing three integers.
   - An array could also contain `float`s, `string`s, other `array`s, etc.
   - Usually we can access values inside an array by referring to the array and an `index`, which represents a place in the array. For example:
@@ -41,7 +42,7 @@ These are things that can contain other values.
 
 - `string` 
   - This is a collection of characters, like 'hello' or 'This is a complete sentence!'
-- `hash` 
+- `dictionary`, `hash` 
   - This contains other values in key-value pairs. For example, the hash `{'bicycle': 2, 'car': 4}` includes a key of `bicycle` that is associated with a value of `2`.
   - Usually we can access a value inside a hash by referring to the hash and the key associated with the value. For example:
   ```
@@ -50,8 +51,8 @@ These are things that can contain other values.
   // returns 4
   ```
 
-### Conditional statements
-Conditional statmements use words like `if` and `else` (among others) to execute different pieces of code. For example:
+#### Conditional statements
+Conditional statmements use words like `if` and `else` (among others) to execute different pieces of code depending on different conditions. This often uses booleans and comparisons as described above. For example:
 ```
 count_of_ducks = {a number grabbed from user earlier in the code}
 
@@ -62,7 +63,7 @@ else:
 ```
 
 #### Loops
-Loops execute one piece of code multiple times, usually with a condition describing when the loop should stop.
+Loops execute one piece of code multiple times, usually with a condition describing when the loop should stop. The most common types of loops are `for`, `while`, and `do-while`.
 ```
 sum_of_nums_under_10 = 0
 num = 1
@@ -92,25 +93,8 @@ sum_of_nums_under(4) // 10
 sum_of_nums_under(6) // 21
 ```
 
-#### Objects?
-
-### TODO(helin24): other sections? 
+### TODO(lpercival): add other vocabulary
 - Specific words from descriptions of common concepts? 
 - Tools, like command line, REPL, documentation, etc.?
 
 
-## Complex concepts that are confusing to us
-
-### Words related to types of languages
-
-#### Object-oriented
-
-#### Procedural
-
-#### Functional
-
-#### Structural
-
-#### Interpreted
-
-#### Compiled
