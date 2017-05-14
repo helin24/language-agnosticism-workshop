@@ -1,5 +1,3 @@
-# "Easier" Problem (for getting started)
-
 ## Problem Description
 ### Part 1
 Write a function that takes an input argument of a multi-word string and prints or returns the longest word. It should roughly work like this:
