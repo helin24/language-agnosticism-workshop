@@ -18,7 +18,7 @@ Since we don't want to copy and paste the code from Part 1 every time we need th
 ```
 sentence = "This could be any sentence"
 
-define function longest_word_from_sentence:
+define function longest_word_from_sentence(sentence_string):
   # Add your code here!
 end
 
