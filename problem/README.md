@@ -12,6 +12,7 @@ sentence = "This is a long sentence with words of multiple lengths for inputting
 
 # => "inputting"
 ```
+*Note that we don't care about ties. If there are two equal-length words, print either one!*
 
 ### Part 2
 Since we don't want to copy and paste the code from Part 1 every time we need the longest word, create a **function** that encapsulates your code. Something like...
@@ -26,6 +27,12 @@ end
 longest_word_from_sentence(sentence)
 
 # => "sentence"
+
+# And you can keep using it on other sentences!
+another_sentence = "This is a more loquacious sentence"
+longest_word_from_sentence(another_sentence)
+
+# => "loquacious"
 ```
 
 ### Part 3

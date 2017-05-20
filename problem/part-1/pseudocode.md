@@ -2,7 +2,7 @@
 
 ## Part 1
 ```
-Define a sentence variable as a string
+Define a sentence variable as a string, e.g. "This is a long sentence with words of multiple lengths for inputting into your function"
 
 Split the input string on every space character to get an array of words
 
