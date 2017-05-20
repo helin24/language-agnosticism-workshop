@@ -4,40 +4,18 @@
 ```
 Define a sentence variable as a string
 
-Define function with a parameter of input string:
-  Define an array of words
-  Set array to input string that's split on space character
-  
-  Define a longest word and set it to null
-  Define a longest word length and set it to 0
-  For every word:
-    Define current word length to length of word
-    If current word length > longest word length:
-      Set longest word length to current word length
-      Set longest word to current word
-  
-  Return the longest word
+Split the input string on every space character to get an array of words
 
-Call the function, passing the sentence variable
+Define a longest word variable set to an empty string
+
+For every word:
+  If the length of the current word > length of longest word:
+    Set the longest word to current word
+
+Print the longest word
 ```
 
-
-```
-Set variable paragraph to “blah blahh blahhh”
-Split paragraph into words
-Set variables for longest word and longest length, initialized to empty string & 0
-For each word:
-  If word’s length > longest length:
-    # What about ties?
-    Set longest word to word
-    Set longest length to word’s length
-Print longest word and longest length (or word’s length, which is equivalent)
-```
-
-
-
-
-## Part 2
+## Part 3
 ```
 Define a sentence variable as a string
 
