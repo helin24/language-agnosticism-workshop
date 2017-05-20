@@ -21,7 +21,9 @@ https://repl.it/languages/javascript
 
 ## Java
 ### REPL
-TODO: what do we want here? all I see in the Google doc is https://www.compilejava.net/ but there's also a regular repl.it and something at javarepl.com?
+- This link isn't quite a REPL, but it's closest to how you would use Java normally: https://www.compilejava.net/
+  - Since Java is compiled, you need to write a class and compile it, at which point the compiled code can be run.
+- For testing out single lines of code, you can use: http://www.javarepl.com/term.html
 
 ### Other Resources
 - http://introcs.cs.princeton.edu/java/11hello/
