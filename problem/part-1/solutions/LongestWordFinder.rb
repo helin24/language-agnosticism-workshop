@@ -1,6 +1,6 @@
-sentence_string = "This is a long sentence with words of multiple lengths for inputting into your function."
+sentence = "This is a long sentence with words of multiple lengths for inputting into your function."
 
-words = sentence_string.split(" ")
+words = sentence.split(" ")
 longest_word = ""
 
 words.each do |word|
