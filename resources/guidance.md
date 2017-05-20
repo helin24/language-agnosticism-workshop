@@ -34,3 +34,14 @@ TODO: what do we want here? all I see in the Google doc is https://www.compileja
 - https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html
 - http://www.java2s.com/Tutorials/Java_Lambda/java.util.function/BiConsumer/BiConsumer_example.htm
 - http://stackoverflow.com/questions/16148575/hashmap-and-int-as-key
+
+## Elixir
+### REPL
+http://elixirplayground.com/
+
+### Other Resources
+- http://elixir-lang.org/
+- https://hexdocs.pm/elixir/Enum.html
+- http://www.schmitty.me/counting-words-with-elixir/
+- http://learningelixir.joekain.com/reduce-patterns-in-elixir/
+
