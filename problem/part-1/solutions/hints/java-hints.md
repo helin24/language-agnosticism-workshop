@@ -26,3 +26,4 @@
   - Finding the length of a string
   - Finding the length of an array
 - Iteration can be done using a `for` loop
+- Only double quotation marks can be used for strings, not single
