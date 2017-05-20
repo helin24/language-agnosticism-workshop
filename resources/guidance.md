@@ -24,6 +24,13 @@ https://repl.it/languages/javascript
 TODO: what do we want here? all I see in the Google doc is https://www.compilejava.net/ but there's also a regular repl.it and something at javarepl.com?
 
 ### Other Resources
+- http://introcs.cs.princeton.edu/java/11hello/
+- http://www.homeandlearn.co.uk/java/java_methods.html
+- https://www.cs.princeton.edu/courses/archive/spr96/cs333/java/tutorial/java/anatomy/main.html
+- http://www.learnjavaonline.org/en/Variables_and_Types
+- http://www.rgagnon.com/javadetails/java-0438.html
+- https://www.tutorialspoint.com/java/java_for_loop.htm
+- https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html
 - https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html
 - http://www.java2s.com/Tutorials/Java_Lambda/java.util.function/BiConsumer/BiConsumer_example.htm
 - http://stackoverflow.com/questions/16148575/hashmap-and-int-as-key
