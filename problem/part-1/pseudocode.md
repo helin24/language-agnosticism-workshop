@@ -15,6 +15,24 @@ For every word:
 Print the longest word
 ```
 
+## Part 2
+```
+Define a function that takes an input of a sentence:
+  Split the input string on every space character to get an array of words
+
+  Define a longest word variable set to an empty string
+
+  For every word:
+    If the length of the current word > length of longest word:
+      Set the longest word to current word
+
+  Return the longest word (instead of printing)
+
+
+Define a sentence variable as a string
+Print the result of calling function with sentence as input
+```
+
 ## Part 3
 ```
 Define a sentence variable as a string
