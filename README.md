@@ -20,4 +20,19 @@ For those who have been programming in multiple languages already
 - Practice with any unfamiliar languages and note whether you can improve processes for researching and learning
 
 ## Schedule
+Introduction (<2 min)
+- About us
+- Setting goals and expectations
+Comparing languages (~5 min)
+- How are programming languages similar and different?
+- Which differences are important?
+General strategies for programming (~5 min)
+
+Python! (~30 min)
+
+Javascript (~30 min)
+
+... Java? (~30 min)
+
+Conclusion (~5 min)
 
