@@ -23,9 +23,11 @@ For those who have been programming in multiple languages already
 Introduction (<2 min)
 - About us
 - Setting goals and expectations
+
 Comparing languages (~5 min)
 - How are programming languages similar and different?
 - Which differences are important?
+
 General strategies for programming (~5 min)
 
 Python! (~30 min)
