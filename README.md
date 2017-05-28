@@ -36,3 +36,20 @@ Javascript (~30 min)
 
 Conclusion (~5 min)
 
+## Using this repository
+Check out [resources](resources) for strategies applicable to many languages and discussions of how languages are similar/different.
+
+We'll be working on a [problem](problem) in multiple programming languages.
+
+For each language, we've made a directory with language-specific resources. For the main languages we're working on, there are hints for if you get stuck.
+
+Main languages for this workshop:
+- [python](python)
+- [javascript](javascript)
+- [java](java)
+
+Other languages for fun:
+- [php](php)
+- [ruby](ruby)
+- [elixir](elixir)
+
