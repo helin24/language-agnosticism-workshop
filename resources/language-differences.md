@@ -54,3 +54,12 @@ A paradigm is a style of programming ([wikipedia description](https://en.wikiped
 #### Is this important?
 Yes, but not really in the context of choosing a language. Discussions about object-oriented, functional, imperative, etc. come up often, so it's good to have a vague general sense of them. Going from programming with an object-oriented paradigm (where you change the state of objects) to a functional paradigm (where you can't change the state of objects!) is disorienting, probably harder than changing between most languages. However, since many paradigms are often available in a single language, you can always get used to a language and then explore different paradigms within it. For example, Ruby is commonly used with an object-oriented paradigm, but functions like `.map` or `.reduce` are common functional paradigm ideas.
 
+### Language 'typing'
+
+#### Description
+Languages can be referred to as statically vs dynamically typed. Statically typed languages require that we specify what type of data a variable contains, and a compiler will make sure that values assigned to variables match theyr stated type. When coding in a dynamically typed language, we don't need to specify variable types, and variables can be assigned to different types of values during the course of a program.
+
+There's also a concept of whether languages are 'strongly' or 'weakly' typed, but this is [vaguely defined](https://stackoverflow.com/questions/121385/what-are-the-key-aspects-of-a-strongly-typed-language). One definition refers to whether variable types are automatically converted during operations involving other variable types.
+
+#### Is this important?
+Not really, there are positives of both statically and dynamically typed languages, and this trait does not make a language more or less difficult. It may be easier to find bugs in statically typed languages since a compiler will catch any instances where a wrong type is assigned to a variable. But dynamically typed languages can be a little faster since no type declarations are necessary.
