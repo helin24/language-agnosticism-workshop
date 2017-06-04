@@ -34,7 +34,7 @@ Python! (~30 min)
 
 Javascript (~30 min)
 
-... Java? (~30 min)
+Java (~30 min)
 
 Conclusion (~5 min)
 
