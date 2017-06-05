@@ -64,9 +64,7 @@ There are unlimited ways to analyze a group of words - think of other ways to an
 
 ## Using Resources
 
-### Solutions
-We provide solutions in various languages in the rest of this directory. If you get stuck, feel free to look at these for ideas on how to solve the problem. But they're certainly not the only possible way to solve this problem!
+We provide solutions in the directory for each language. If you get stuck, feel free to look at these for ideas on how to solve the problem. But they're certainly not the only possible way to solve this problem!
 
-### Languages and repl's to make this easier
-TODO(helin24): Add a list here
+The language directories also contain a README with the link to an online code editor for you to use and some helpful resources, as well as a file of hints you can reference.
 

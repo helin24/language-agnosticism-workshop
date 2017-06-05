@@ -57,19 +57,3 @@ Define function with a parameter of input string:
 Call the function, passing the sentence variable
 ```
 
-Count frequency rather than length:
-      
-```
-Set variable paragraph to “blah blah blah”
-Make a dictionary for the words and their lengths
-For every word in the paragraph:
-  If it’s already in the dictionary, add 1 to its value
-  If it’s not in the dictionary, add it with a value of 1
-Set a variable for the highest frequency to 0
-Set a variable for the most frequent word
-For every word (key) in the dictionary:
-  If its value is > the current highest frequency:
-    Set highest frequency to its value
-    Set most frequent word to the key
-Print out most frequent word and highest frequency
-```
