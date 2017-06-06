@@ -3,7 +3,7 @@ We've gathered some information and links here to define some commonly-used prog
 
 ### Commonalities
 - [Descriptions of what many languages share](language-commonalities.md)
-- [General strategies for any language](general-strategies.md)
+- [General strategies for any language](general-programming-strategies.md)
 - [Vocabulary of processes and tools](processes-and-tools-vocabulary.md)
 
 ### Differences
