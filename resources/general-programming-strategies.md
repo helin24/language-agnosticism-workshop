@@ -2,6 +2,7 @@
 
 - Break the problem and solution down into the smallest pieces possible.
 - Work incrementally. Get one piece working before moving to the next, even if it's just printing out a variable.
+- Celebrate small victories! Often we have a tendency of ignoring what we've accomplished in favor of daunting tasks ahead, but small steps are the basis of progress and worth reflection/celebration.
 - “Printf debugging”: the printf comes from C, but the idea is just to print out the state of various variables and such to figure out what’s going wrong.
 - Pseudocode always helps; it’s much easier to think through the problem before diving into trying to code it.
 - Find the documentation.
