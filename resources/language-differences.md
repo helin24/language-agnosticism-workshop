@@ -127,6 +127,7 @@ For you:
 - Discussions about language paradigms come up often, so it's good to have a general sense of what that means
 - Changing programming paradigm can be disorienting, probably harder than changing between most languages
 - Not important in choosing a language to start with, since most languages can be used within different paradigms
+  - e.g. [functional programming in python](https://docs.python.org/2/howto/functional.html)
 
 ### Language 'typing'
 

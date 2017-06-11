@@ -1,4 +1,4 @@
-## Things that most programming languages can do
+## Common programming ideas across languages
 While programming languages differ widely in syntax, most of them share these logical constructs or tools. This means that the same problems can be solved in multiple languages, often with the same steps)!
 *Note that all code examples are structured pseudocode and not meant to be any particular language*
 
