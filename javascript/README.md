@@ -8,7 +8,7 @@
 - [Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Tutorial](https://www.codecademy.com/learn/javascript)
 - [Another tutorial](http://htmldog.com/guides/javascript/)
-- [Loops](http://heyjavascript.com/javascript-while-loops/)
+- [Loops](http://thejsguy.com/2016/07/30/javascript-for-loop-vs-array-foreach.html)
 
 ## Help
 If you get stuck, look at the hints page!
